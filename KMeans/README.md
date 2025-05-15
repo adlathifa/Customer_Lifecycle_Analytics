@@ -1,7 +1,7 @@
 # Mall Customer Segmentation Using KMeans
 
 ## **Project Overview**
-
+This project applies K-Means clustering to segment mall customers based on age, income, and spending behavior. The analysis reveals four distinct customer groups, each with unique traits and preferences. These insights support personalized marketing strategies, helping businesses better target high-value customers, understand spending habits, and optimize engagement across different customer segments.
 
 ## Dataset
 This <a href="https://github.com/adlathifa/Customer_Segmentation_Analysis/blob/main/KMeans/Mall_Customers.csv">Dataset</a> includes the following columns:
