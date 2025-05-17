@@ -4,7 +4,7 @@
 This project applies K-Means clustering to segment mall customers based on age, income, and spending behavior. The analysis reveals four distinct customer groups, each with unique traits and preferences. These insights support personalized marketing strategies, helping businesses better target high-value customers, understand spending habits, and optimize engagement across different customer segments.
 
 ## Dataset
-This <a href="https://github.com/adlathifa/Customer_Segmentation_Analysis/blob/main/KMeans/Mall_Customers.csv">Dataset</a> includes the following columns:
+This <a href="https://github.com/adlathifa/Customer_Lifecycle_Analytics/blob/main/Customer%20Segmentation%20K-Means/Mall_Customers.csv">Dataset</a> includes the following columns:
 - `Customer_ID`: Unique identifier for each customer
 - `Gender`: Gender of the customer
 - `Age`: Age of the customer
