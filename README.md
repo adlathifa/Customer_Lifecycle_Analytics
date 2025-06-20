@@ -1,1 +1,1 @@
-# Customer_Segmentation_Analysis
+# Customer_Lifecycle_Analysis
